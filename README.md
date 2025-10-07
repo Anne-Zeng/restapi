@@ -10,7 +10,7 @@ To run the project locally, follow these steps:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/ShizhanLiu/restapi.git
+git clone https://github.com/Anne-Zeng/restapi.git
 
 # Step 2: Navigate into the project directory and open the project in intellij
 
